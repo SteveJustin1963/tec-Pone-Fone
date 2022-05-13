@@ -1,6 +1,8 @@
 # tec-Pone-Fone
 tec1 experiments in vintage phones
 
+![image](https://user-images.githubusercontent.com/58069246/168206616-908d8664-b4d0-42b0-8396-7389c790187a.png)
+
 ![image](https://user-images.githubusercontent.com/58069246/168202805-ae024a3f-457b-42f4-8221-580daef8b7c5.png)
 ![image](https://user-images.githubusercontent.com/58069246/168202943-2c0c08b0-3081-4cdb-be76-b571e02e5765.png)
 
@@ -9,7 +11,10 @@ On 7 March 1876, Bell was granted US patent 174465A, for a method of transmittin
 
 From as early as 1836 onward, various suggestions and inventions of dials for sending telegraph signals were reported. After the first commercial telephone exchange was installed in 1878, the need for an automated, user-controlled method of directing a telephone call became apparent. Addressing the technical shortcomings, Almon Brown Strowger invented a telephone dial in 1891. A rotary dial typically features a circular construction. The shaft that actuates the mechanical switching mechanism is driven by the finger wheel, a disk that has ten finger holes aligned close to the circumference. The finger wheel may be transparent or opaque permitting the viewing of the face plate, or number plate below, either in whole, or only showing the number assignment for each finger hole. Early phones (in the mid to late 1960s) were built which continued to provide the same rotary-dial signalling on their PABX by using a separate converter to give 10-PPS, but were operated with buttons. Some of these, such as the GPO 726 or 728 can be distinguished from touch-tone phones by the lack of * and # keys and unusual key layout. Later so-called "Self-Contained" (SC) Keyphones used a line-powered electronic circuit within the phone to convert the keyed-in digits to give 10-PPS that was required to work on normal Strowger, Crossbar or Electronic public exchanges. 
 
-In my time a discerning feature of old phones is the rotary dial, prior to that there was none and you would rely on the operator to connect sometimes using a magento and winding handle juice some current.
+In my time a discerning feature of old phones is the rotary dial, prior to that there was none and you would rely on the operator to connect sometimes using a magento and winding handle juice some current. 
+![image](https://user-images.githubusercontent.com/58069246/168206537-27ca7158-3e68-4bcf-bd54-9ae6bf842de3.png)
+![image](https://user-images.githubusercontent.com/58069246/168206684-61c20efb-fb78-4746-8e9a-5a61d76b2a0f.png)
+
 
 
 
