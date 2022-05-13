@@ -16,6 +16,15 @@ In my time a discerning feature of old phones is the rotary dial, prior to that 
 ![image](https://user-images.githubusercontent.com/58069246/168206616-908d8664-b4d0-42b0-8396-7389c790187a.png)
 ![image](https://user-images.githubusercontent.com/58069246/168206537-27ca7158-3e68-4bcf-bd54-9ae6bf842de3.png)
 ![image](https://user-images.githubusercontent.com/58069246/168206684-61c20efb-fb78-4746-8e9a-5a61d76b2a0f.png)
+![image](https://user-images.githubusercontent.com/58069246/168206747-8075afb1-94ee-4ac5-a06d-f9186cb61c69.png)
+![image](https://user-images.githubusercontent.com/58069246/168206996-e76ae2ad-1db1-4a9e-86c1-50dda3b69359.png)
+![image](https://user-images.githubusercontent.com/58069246/168207018-54c6d7b8-2a0e-43ac-9fca-9cda87d7a5dc.png)
+![image](https://user-images.githubusercontent.com/58069246/168207041-a9c8a1da-1db0-4617-b4cf-5f328ee902b1.png)
+![image](https://user-images.githubusercontent.com/58069246/168207090-2cc5b571-edc0-457e-805f-7c07c308be26.png)
+![image](https://user-images.githubusercontent.com/58069246/168207260-25f02292-9472-46e5-8f51-e8e60dbd4367.png)
+
+
+
 
 
 
