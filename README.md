@@ -29,11 +29,9 @@ In my time a discerning feature of old phones is the rotary dial, prior to that 
 
 
 
-## Ref
+### Ref
 - https://hackaday.com/2020/01/14/a-vintage-phone-in-2020/
 - https://hackaday.com/category/phone-hacks/
 - https://en.wikipedia.org/wiki/Rotary_dial
 - https://hackaday.io/project/180767-telephone-exchange-from-scratch
- 
-- 
-- 
+
