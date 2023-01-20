@@ -1,3 +1,2 @@
 # tec-Pone-Fone
-tec1 experiments in vintage phones
-
+tec1 experiments in vintage phones 
